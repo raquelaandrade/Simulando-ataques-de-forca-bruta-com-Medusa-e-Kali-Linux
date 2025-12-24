@@ -80,7 +80,7 @@ Comando: ftp 192.168.56.101
 
 ![](./media/media/image11.png)
 
-4.2 - Ao acessar, clicar na ferramenta do desenvolvedor, ir até network e ver quais parâmetros são esperados, Na situação em questão são esperados os parâmetros: username, password e Login.
+4.2 - Ao acessar, clicar na ferramenta do desenvolvedor, ir até network e ver quais parâmetros são esperados. Na situação em questão são esperados os parâmetros: username, password e Login.
 
 ![](./media/media/image12.png)
 
@@ -136,3 +136,4 @@ Comando: smbclient -L //192.168.56.101 -U msfadmin
 
 ![](./media/media/image19.png)
 ------------------------------------------------------------------------
+
